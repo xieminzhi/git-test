@@ -19,6 +19,8 @@ public class GItTest {
         System.out.println("hot-fix!");
         System.out.println("master test");
         int a = 0;
+        int b = 0;
+        int c = a+b;
 
     }
 }
