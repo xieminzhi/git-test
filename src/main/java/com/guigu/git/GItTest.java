@@ -18,6 +18,7 @@ public class GItTest {
         System.out.println("hello git4!");
         System.out.println("hot-fix!");
         System.out.println("master test");
+        int a = 0;
 
     }
 }
